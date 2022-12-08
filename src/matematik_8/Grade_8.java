@@ -1,6 +1,6 @@
 package matematik_8;
 
-public class Konular {
+public class Grade_8 {
 
     // 8.sınıf matematik konuları
 
