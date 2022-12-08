@@ -8,6 +8,10 @@ public class Grade_6 {
     //Sayılar ve islemler
 
 
+    // Ailere konular hakkında bilgi verildi
+
+
+
 
 
 
