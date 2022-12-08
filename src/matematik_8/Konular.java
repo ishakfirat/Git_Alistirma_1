@@ -8,5 +8,7 @@ public class Konular {
 
     // Üslü sayılar
 
+    // Ailelere konular hakkında bilgi verildi
+
 
 }
